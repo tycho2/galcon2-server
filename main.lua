@@ -28,6 +28,7 @@ require("engine")
 require("mod")
 require("data")
 require("util")
+require("galcon_util")
 
 -- Start mod.
 mod_init()
